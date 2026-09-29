@@ -19,6 +19,3 @@ Sora is an AI-powered job portal designed to connect job seekers with the right 
 
 ## 🎯 Objective
 To simplify the hiring process by leveraging Artificial Intelligence and full-stack development, helping users find the right job faster and smarter.
-
-## 📌 Status
-🚧 Currently under development
